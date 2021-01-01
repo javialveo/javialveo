@@ -1,6 +1,5 @@
 # Eduardo J Alveo
 Programador Novato.
-## Habilidades:
-- JavaScript
-- HTML
-- CSS
+- Estudiante de Licenciatura en Desarrollo de Software.
+- Profesión: Almacenista.
+- Habilidades: JavaScript | HTML | CSS
