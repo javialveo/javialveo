@@ -1,4 +1,4 @@
-# Eduardo J Alveo &#128113;&#127998;
+# Eduardo J Alveo &#128104;&#127998;
 Programador Novato.
 - Estudiante de Licenciatura en Desarrollo de Software.
 - Profesión: Almacenista.
